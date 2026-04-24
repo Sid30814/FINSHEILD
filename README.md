@@ -1,7 +1,6 @@
 # 🛡️ FinShield — DevSecOps SDLC Pipeline
 
-> **CSE 816: Software Production Engineering — Final Project**  
-> Finance Domain | DevSecOps | 25 Marks
+
 
 ---
 

@@ -224,21 +224,6 @@ docker compose down       # Keep data
 
 ---
 
-## 📊 Marks Coverage
-
-| Criteria | Implementation | Marks |
-|----------|----------------|-------|
-| Git + GitHub | Version control, push triggers Jenkins | ✅ |
-| Jenkins CI/CD | 8-stage Jenkinsfile, GitHub hook trigger | ✅ |
-| Docker + Docker Hub | Multi-stage Dockerfile, push on build | ✅ |
-| Ansible Playbooks | Modular roles (vault_setup, deploy) | ✅ |
-| Kubernetes | Deployment, Service, HPA (2–10 pods) | ✅ |
-| ELK Stack | JSON logs → Logstash → ES → Kibana | ✅ |
-| **Vault** | Secrets for DB, API keys, Docker Hub | ✅ **+3** |
-| **Ansible Roles** | vault_setup + deploy roles | ✅ **+3** |
-| **K8s HPA** | Auto-scales on CPU>60% / Mem>70% | ✅ **+3** |
-| **Innovation** | Finance domain, fraud detection, live UI | ✅ **+2** |
-| **Domain** | FinTech/Finance — transaction API + fraud engine | ✅ |
 
 ---
 
